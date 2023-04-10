@@ -65,3 +65,6 @@ Manifest.toml
 # OpenMDAO stuff
 coloring_files
 n2.html
+
+# vs_code
+.vscode
